@@ -1,0 +1,5 @@
+[["walmart-site-1" :site/url "https://corporate.walmart.com" 1 :add]
+ ["walmart-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["walmart-site-1" :site/http-status 200 1 :add]
+ ["walmart-site-1" :site/title "Walmart Corporate News, Purpose &amp; Leadership" 1 :add]
+ ["walmart-site-1" :site/description "Explore Walmart’s corporate news, purpose, leadership, investor information and supplier resources—all in one place." 1 :add]]
